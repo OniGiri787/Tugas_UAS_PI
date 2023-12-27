@@ -43,8 +43,12 @@ IDE adalah kunci dalam mengembangkan perangkat lunak. Berikut adalah beberapa la
 ## 10. Mendemonstrasikan Pembuatan Aplikasi / Game Pada Platform : Mobile / Desktop / Web Browser ⭐⭐⭐⭐⭐
 
 ## 11. Mencoba Instalasi Database (PostgreSQL / MySQL / dsb.) [v] ⭐⭐⭐
+Saya sudah menginstal MYSQL, saya menginstalnya di website https://dev.mysql.com/downloads/installer/ dengan mengikuti tutorial https://kb.qwords.com/category/mysql/cara-install-mysql-di-windows-server-2022/ ini, saya berhasil menginstall MYSQL
+![sql2](https://github.com/OniGiri787/Tugas_UAS_PI/assets/124949510/839c2a1b-0ba7-4591-8e2b-d176e9bb935a)
+
 
 ## 12. Mencoba Eksplorasi dan Query Database Menggunakan Database Explorer (Dbeaver / dsb.) [v] ⭐⭐⭐
+Saya sudah melakukan explorasi, eksplorasi dan querying database dapat dilakukan dengan menggunakan berbagai tools, tergantung pada jenis database yang gunakan. Caranya adalah yang pertama yaitu memilih database explorer contohnya adalah MYSQL. Lalu buka dan hubungkan database setelah itu eksekusi querynya.
 
 ## 13. Mendemonstrasikan dan Menjelaskan Penggunaan Web Browser untuk Mengakses Halaman Website HTML [v] ⭐⭐⭐⭐
 
@@ -81,6 +85,14 @@ c.www.microsoft.com: Alamat domain untuk perusahaan teknologi Microsoft.
 d.www.wikipedia.org: Alamat domain untuk ensiklopedia online Wikipedia.
 
 ## 16. Mencoba Pembuatan Halaman Web Menggunakan HTML, CSS, dan JavaScript [v] ⭐⭐⭐
+saya sudah banyak membuat file html dan css, tapi untuk JavaScript baru sedikit.
+HTML :
+![image](https://github.com/OniGiri787/Tugas_UAS_PI/assets/124949510/8fa1d9e0-3d6f-4cf1-b803-7f94c732cbcb)
+CSS :
+![image](https://github.com/OniGiri787/Tugas_UAS_PI/assets/124949510/047d0224-096c-40e5-bb47-0e1cae1409c2)
+JavaScript :
+![image](https://github.com/OniGiri787/Tugas_UAS_PI/assets/124949510/0aa99163-c445-4a4c-8b7b-32e5a228199e)
+
 
 ## 17. Mencoba Penerapan Teknik Search Engine Optimization (SEO) Pada HTML [v] ⭐⭐⭐
 
