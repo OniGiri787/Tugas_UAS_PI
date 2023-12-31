@@ -95,14 +95,38 @@ JavaScript :
 
 
 ## 17. Mencoba Penerapan Teknik Search Engine Optimization (SEO) Pada HTML [v] ⭐⭐⭐
+setelah saya melakukan penerapan tekhnik SEO pada HTML ada beberapa tekhnik yang dapat dilakukan yaitu:
+
+Optimasi Judul Halaman (Title Tag), Meta Description,Struktur URL yang SEO-Friendly, Penggunaan Heading (H1, H2, H3, dll.), Optimasi Gambar, Penggunaan Keyword, Kecepatan Situs, DLL.
+
+dan Ingatlah bahwa SEO adalah proses jangka panjang dan membutuhkan waktu untuk melihat hasilnya.
 
 ## 18. Mencoba Pembuatan File JSON [v] ⭐⭐⭐
+JSON (JavaScript Object Notation) adalah format file berbasis teks yang umumnya digunakan dalam proses pertukaran data antara server dan klien.
+Pada code JSON yang saya buat digunakan untuk mengkonfigurasi pengaturan debugging menggunakan Visual Studio Code dengan ekstensi Chrome Debugger.
+berikut codenya :
+![Screenshot 2023-12-31 133222](https://github.com/OniGiri787/Tugas_UAS_PI/assets/124949510/de10b57a-86fe-45e0-a9f9-c61ea8e1e752)
 
 ## 19. Mencoba Penggunaan Web Hosting Dengan Untuk Halaman HTML [v] ⭐⭐⭐
+saya sudah mencoba mehosting web menggunakan website 000webhost,000webhost adalah layanan hosting web yang menyediakan paket hosting gratis. Ini adalah merek turunan dari Hostinger. Jika Anda mencari hosting bersama gratis, maka ini bisa jadi pilihan yang bagus. Hosting ini tidak akan menayangkan iklan di sepanjang konten Anda, dan hadir dengan beberapa keunggulan dari hosting berbayar, seperti PHP, MySQL, dan cPane.
+
+![image](https://github.com/OniGiri787/Tugas_UAS_PI/assets/124949510/25e9effc-2b32-46bb-9b25-1d7cc2e0b5a7)
 
 ## 20. Mencoba Penggunaan Web Hosting Dengan Untuk Web Service [v] ⭐⭐⭐
+![image](https://github.com/OniGiri787/Tugas_UAS_PI/assets/124949510/25e9effc-2b32-46bb-9b25-1d7cc2e0b5a7)
 
 ## 21. Mencoba HTTP Request dan Web API dengan Hoppscotch / Postman [v] ⭐⭐
+API merupakan istilah yang sangat sering didengar di kalangan developer. Dalam skala besar, penggunaan API merupakan unsur yang sangat penting dalam management resource data. Terlebih dalam kasus development dua platform yang harus saling terintegrasi satu sama lain terkait pengolahan datanya. dan kali ini saya mengunakan platform Postman, postman merupakan platform yang dapat digunakan untuk melakukan inspeksi alur data pada suatu sistem. Inspeksi data dapat dilakukan hanya melalui GUI postman dengan menentukan method saja. Kemudahan yang ditawarkan oleh Postman sangat membantu dalam pengembangan sistem yang bertahap dan terpisah antara pengembangan backend dan frontend nya. Fungsi utama Postman adalah sebagai GUI API caller. Selain itu, postman memiliki beberapa service yaitu API Client, Automated Testing, Design & Mock, Documentation, Monitors, & Workspace.
+
+dan method yang paling sering digunakan untuk melakukan request dan inspeksi resource data via postman yaitu GET, POST, PUT, DELETE.
+
+a.GET — method ini digunakan untuk mendapatkan data yang telah ada pada database. Biasanya method ini akan mudah dijumpai pada route sistem. pada laravel akan mudah menemui implementasi GET path /routes/web.php. GET dalam implementasi pemrograman web dapat dikenal dengan istilah read dari CRUD.
+
+b.POST — method POST berfungsi untuk melakukan submit data pada spesifik resource. Karena fungsi yang digunakan untuk melakukan submit, maka sering kali data yang diinputkan via API caller dapat memberikan efek perubahan data.
+
+c.PUT — Sederhananya method PUT digunakan untuk menggantikan data lama dengan data baru. Dalam impelementasi pengembangan web, method PUT Ini bisa dipahami sebagai update dari CRUD.
+
+d.DELETE- method delete dalam implementasi pengembangan web, sering dikenal delete dari CRUD. Fungsi nya yaitu menghapus data pada resource yang telah ada. Pada dasarnya GUI API caller hanya platform yang mempermudah developer melakukan inspeksi apakah data maupun fungsi yang berhubungan dengan data telah berfungsi atau tidak. Cek API saat ini menjadi kalimat lazim di kalangan para developer dan tester. Kehadiran API caller mempermudah developer backend dalam membuat akses API tanpa harus menunggu hasil dari kerja developer. Sehingga kinerja pengembangan sistem pun menjadi lebih efisien.
 
 ## 22. Mendemonstrasikan Penggunaan Developer Tools Pada Web Browser (Firefox / Chrome) [v] ⭐⭐⭐⭐⭐
 
