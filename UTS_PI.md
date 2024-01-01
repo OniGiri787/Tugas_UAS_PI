@@ -77,11 +77,22 @@ F. Library <br>
 1. datepicker <br>
 <br>
 ## 6. Desain User Experience dan Interface
+
 ![Home (1)](https://github.com/OniGiri787/FAF.github.io/assets/124949510/66f294ee-5cf3-49a4-8986-8ce3fbc71088)
 
 ![ToDo](https://github.com/OniGiri787/FAF.github.io/assets/124949510/ea95b126-6ca7-4a1a-b8a9-a685be7c67e7)
 
 ![ToDo make](https://github.com/OniGiri787/FAF.github.io/assets/124949510/492f8bf0-f6c5-40f0-9d04-a58987498b65)
+
+Inspirasi :
+![Ref Home Gam](https://github.com/OniGiri787/Tugas_UAS_PI/assets/124949510/6ffe57e6-0aa9-41e4-af7b-dabf0654a4e9)
+
+![ref home nav](https://github.com/OniGiri787/Tugas_UAS_PI/assets/124949510/ffb29e86-f171-4dbd-afba-5a00f90e33c1)
+
+![image](https://github.com/OniGiri787/Tugas_UAS_PI/assets/124949510/84c439bc-506b-4939-9249-8888be55e1e4)
+
+![Screenshot 2024-01-01 141537](https://github.com/OniGiri787/Tugas_UAS_PI/assets/124949510/11ff3b60-fdc0-4483-b7b1-8403736388d7)
+
 
 ## 7. Demonstari Video
 https://youtu.be/TvnNz7UZDSM
