@@ -33,6 +33,41 @@ https://youtu.be/vpdeXUzAAfg
 https://youtu.be/3x2FNLoAjbM
 
 ## 7. Mencoba Algoritma Bubble Sort Menggunakan Java [v] ⭐⭐⭐
+Bubble sort adalah algoritma pengurutan sederhana yang secara berulang melintasi daftar, membandingkan elemen-elemen berdekatan, dan menukar mereka jika mereka berada dalam urutan yang salah.
+
+    public class bubleSort {
+      public static void main(String[] args) {
+        int[] array = {64, 34, 25, 12, 22, 11, 90};
+        printArray(array);
+        System.out.println("Array sebelum diurutkan: ");
+        
+        bubbleSort(array);
+        
+        System.out.println("\nArray setelah diurutkan: ");
+        printArray(array);
+    }
+
+      static void bubbleSort(int[] arr) {
+        int n = arr.length;
+        for (int i = 0; i < n-1; i++) {
+            for (int j = 0; j < n-i-1; j++) {
+                if (arr[j] > arr[j+1]) {
+                    // tukar nilai arr[j] dan arr[j+1]
+                    int temp = arr[j];
+                    arr[j] = arr[j+1];
+                    arr[j+1] = temp;
+                }
+            }
+        }
+    }
+
+    static void printArray(int[] arr) {
+        int n = arr.length;
+        for (int i=0; i < n; ++i)
+            System.out.print(arr[i] + " ");
+        System.out.println();
+    }
+    }
 
 ## 8. Mencoba dan Mendemonstrasikan Penggunakan IDE ⭐⭐
 IDE adalah kunci dalam mengembangkan perangkat lunak. Berikut adalah beberapa langkah untuk memulai,dan sesuai dengan bahasa yang saya pelajari saat ini yaitu pelajaran bahasa java saya memilih IDE yaitu:Visual Studio Code (VS Code)dikarenakan Ringan, banyak ekstensi, dan cocok untuk berbagai bahasa pemrograman.dan apa itu Visual Studio Code (VS Code),Visual Studio Code (VS Code)adalah:editor kode sumber yang dikembangkan oleh Microsoft. Perangkat lunak ini gratis dan open-source, dirancang untuk membantu para pengembang dalam menulis dan mengedit kode dengan berbagai bahasa pemrograman.
@@ -43,12 +78,14 @@ IDE adalah kunci dalam mengembangkan perangkat lunak. Berikut adalah beberapa la
 ## 10. Mendemonstrasikan Pembuatan Aplikasi / Game Pada Platform : Mobile / Desktop / Web Browser ⭐⭐⭐⭐⭐
 
 ## 11. Mencoba Instalasi Database (PostgreSQL / MySQL / dsb.) [v] ⭐⭐⭐
-Saya sudah menginstal MYSQL, saya menginstalnya di website https://dev.mysql.com/downloads/installer/ dengan mengikuti tutorial https://kb.qwords.com/category/mysql/cara-install-mysql-di-windows-server-2022/ ini, saya berhasil menginstall MYSQL
-![sql2](https://github.com/OniGiri787/Tugas_UAS_PI/assets/124949510/839c2a1b-0ba7-4591-8e2b-d176e9bb935a)
+Saya sudah menginstal PostgreSQL, saya menginstalnya di website https://www.postgresql.org/download/windows/ dengan mengikuti tutorial https://www.youtube.com/watch?v=efEaVGYl5_I&pp=ygUaZGJlYXZlciBjb25uZWN0IHBvc3RncmVzcWw%3D ini, saya berhasil menginstall PostgreSQL
+![Untitled](https://github.com/OniGiri787/Tugas_UAS_PI/assets/124949510/4c33a539-08e6-44ba-b90c-4fa038a6688e)
 
 
 ## 12. Mencoba Eksplorasi dan Query Database Menggunakan Database Explorer (Dbeaver / dsb.) [v] ⭐⭐⭐
-Saya sudah melakukan explorasi, eksplorasi dan querying database dapat dilakukan dengan menggunakan berbagai tools, tergantung pada jenis database yang gunakan. Caranya adalah yang pertama yaitu memilih database explorer contohnya adalah MYSQL. Lalu buka dan hubungkan database setelah itu eksekusi querynya.
+Saya sudah Eksplorasi dan Query Database Menggunakan Database Explorer Dbeaver dan PostgreSQL, menggunakan tutorial https://www.youtube.com/watch?v=efEaVGYl5_I&pp=ygUaZGJlYXZlciBjb25uZWN0IHBvc3RncmVzcWw%3D , saya berhasil koneksi ke database dan membuat table
+![Screenshot 2024-01-01 075252](https://github.com/OniGiri787/Tugas_UAS_PI/assets/124949510/f590816a-6a66-4f0f-99a9-191919181fb3)
+![image](https://github.com/OniGiri787/Tugas_UAS_PI/assets/124949510/78739e66-0b52-4a78-834a-69a2d029d9c7)
 
 ## 13. Mendemonstrasikan dan Menjelaskan Penggunaan Web Browser untuk Mengakses Halaman Website HTML [v] ⭐⭐⭐⭐
 
@@ -104,8 +141,35 @@ dan Ingatlah bahwa SEO adalah proses jangka panjang dan membutuhkan waktu untuk 
 ## 18. Mencoba Pembuatan File JSON [v] ⭐⭐⭐
 JSON (JavaScript Object Notation) adalah format file berbasis teks yang umumnya digunakan dalam proses pertukaran data antara server dan klien.
 Pada code JSON yang saya buat digunakan untuk mengkonfigurasi pengaturan debugging menggunakan Visual Studio Code dengan ekstensi Chrome Debugger.
-berikut codenya :
-![Screenshot 2023-12-31 133222](https://github.com/OniGiri787/Tugas_UAS_PI/assets/124949510/de10b57a-86fe-45e0-a9f9-c61ea8e1e752)
+berikut contoh codenya :
+    
+    {
+
+      "nama" : "Fariz Ahmad Fadillah",
+  
+      "nim" : "1237050064",
+  
+      "alamat" : "Cipasir Rancaekek",
+      
+      "no_Hp" : "081523996136",
+      
+      "email" : "onigiri2789@gmail.com",
+
+    }
+dan satu lagi : 
+
+      {
+        "version": "0.2.0",
+        "configurations": [
+            {
+                "type": "chrome",
+                "request": "launch",
+                "name": "Launch Chrome against localhost",
+                "url": "http://localhost:8080",
+                "webRoot": "${workspaceFolder}"
+            }
+        ]
+      }
 
 ## 19. Mencoba Penggunaan Web Hosting Dengan Untuk Halaman HTML [v] ⭐⭐⭐
 saya sudah mencoba mehosting web menggunakan website 000webhost,000webhost adalah layanan hosting web yang menyediakan paket hosting gratis. Ini adalah merek turunan dari Hostinger. Jika Anda mencari hosting bersama gratis, maka ini bisa jadi pilihan yang bagus. Hosting ini tidak akan menayangkan iklan di sepanjang konten Anda, dan hadir dengan beberapa keunggulan dari hosting berbayar, seperti PHP, MySQL, dan cPane.
