@@ -142,7 +142,7 @@ dan Ingatlah bahwa SEO adalah proses jangka panjang dan membutuhkan waktu untuk 
 
 ## 18. Mencoba Pembuatan File JSON [v] ⭐⭐⭐
 JSON (JavaScript Object Notation) adalah format file berbasis teks yang umumnya digunakan dalam proses pertukaran data antara server dan klien.
-Pada code JSON yang saya buat digunakan untuk mengkonfigurasi pengaturan debugging menggunakan Visual Studio Code dengan ekstensi Chrome Debugger.
+
 berikut contoh codenya :
     
     {
@@ -158,7 +158,7 @@ berikut contoh codenya :
       "email" : "onigiri2789@gmail.com",
 
     }
-dan satu lagi : 
+Pada code JSON yang selanjutnya digunakan untuk mengkonfigurasi pengaturan debugging menggunakan Visual Studio Code dengan ekstensi Chrome Debugger.
 
       {
         "version": "0.2.0",
@@ -195,7 +195,7 @@ c.PUT — Sederhananya method PUT digunakan untuk menggantikan data lama dengan 
 d.DELETE- method delete dalam implementasi pengembangan web, sering dikenal delete dari CRUD. Fungsi nya yaitu menghapus data pada resource yang telah ada. Pada dasarnya GUI API caller hanya platform yang mempermudah developer melakukan inspeksi apakah data maupun fungsi yang berhubungan dengan data telah berfungsi atau tidak. Cek API saat ini menjadi kalimat lazim di kalangan para developer dan tester. Kehadiran API caller mempermudah developer backend dalam membuat akses API tanpa harus menunggu hasil dari kerja developer. Sehingga kinerja pengembangan sistem pun menjadi lebih efisien.
 
 ## 22. Mendemonstrasikan Penggunaan Developer Tools Pada Web Browser (Firefox / Chrome) [v] ⭐⭐⭐⭐⭐
-
+https://youtu.be/9Wq46fE3LXI
 
 ## 23. Mengeksplorasi dan Menjelaskan Layanan Cloud Service yang Diminati (GCP / AWS / Azure) [v] ⭐⭐
 Saat ini banyak perusahaan berbasis digital seperti Gojek, Tokopedia, Instagram, Telkom memanfaatkan Cloud Service karena memudahkan untuk mulai pembangunan dan analisis menggunakan infrastruktur digital yang dapat berkembang secara dinamis dengan tarif yang sangat teliti.
