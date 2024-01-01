@@ -76,6 +76,7 @@ IDE adalah kunci dalam mengembangkan perangkat lunak. Berikut adalah beberapa la
 
 
 ## 10. Mendemonstrasikan Pembuatan Aplikasi / Game Pada Platform : Mobile / Desktop / Web Browser ⭐⭐⭐⭐⭐
+https://youtu.be/ejSeNvscqek
 
 ## 11. Mencoba Instalasi Database (PostgreSQL / MySQL / dsb.) [v] ⭐⭐⭐
 Saya sudah menginstal PostgreSQL, saya menginstalnya di website https://www.postgresql.org/download/windows/ dengan mengikuti tutorial https://www.youtube.com/watch?v=efEaVGYl5_I&pp=ygUaZGJlYXZlciBjb25uZWN0IHBvc3RncmVzcWw%3D ini, saya berhasil menginstall PostgreSQL
@@ -88,6 +89,7 @@ Saya sudah Eksplorasi dan Query Database Menggunakan Database Explorer Dbeaver d
 ![image](https://github.com/OniGiri787/Tugas_UAS_PI/assets/124949510/78739e66-0b52-4a78-834a-69a2d029d9c7)
 
 ## 13. Mendemonstrasikan dan Menjelaskan Penggunaan Web Browser untuk Mengakses Halaman Website HTML [v] ⭐⭐⭐⭐
+https://youtu.be/mouQXzlZ1To
 
 ## 14. Mendemonstrasikan dan Menjelaskan Komponen Dari Contoh Uniform Resource Locator (URL) [v] ⭐⭐
 URL atau Uniform Resource Locator adalah alamat web yang mengarah ke website, halaman web, atau dokumen tertentu di internet. URL memungkinkan Anda mengakses informasi dari komputer atau lokasi online, seperti web server atau penyimpanan cloud. Nah disini saya mengunakan website https://informatika.digital/ untuk mencari apa saja komponen yang berada di dalam URL link tersebut yaitu:
@@ -194,6 +196,7 @@ d.DELETE- method delete dalam implementasi pengembangan web, sering dikenal dele
 
 ## 22. Mendemonstrasikan Penggunaan Developer Tools Pada Web Browser (Firefox / Chrome) [v] ⭐⭐⭐⭐⭐
 
+
 ## 23. Mengeksplorasi dan Menjelaskan Layanan Cloud Service yang Diminati (GCP / AWS / Azure) [v] ⭐⭐
 Saat ini banyak perusahaan berbasis digital seperti Gojek, Tokopedia, Instagram, Telkom memanfaatkan Cloud Service karena memudahkan untuk mulai pembangunan dan analisis menggunakan infrastruktur digital yang dapat berkembang secara dinamis dengan tarif yang sangat teliti.
 
@@ -210,10 +213,13 @@ Referensi cloud service: Amazon Web Service Microsoft Azure Google Cloud Platfor
 ## 28. Mencoba Pemrosesan Konten Multimedia (Image, Audio) Menggunakan Google Colab [v] ⭐⭐⭐
 
 ## 29. Mencoba Web Tool AI Discriminative (Image Classification) [v] ⭐⭐⭐⭐
+https://youtu.be/Jec_ycsUlaM
 
 ## 30. Mencoba Web Tool AI Generative (Text to Image, Text to Text) [v] ⭐⭐⭐⭐
+https://youtu.be/XFm2mpIui_U
 
 ## 31. Mencoba Model Machine Learning Menggunakan Google Colab, TTS, Speechrecognition, dan HuggingFace [v] ⭐⭐⭐
+
 
 ## 32. Mencoba Data Visualization Dengan Tools [v] ⭐⭐
 
@@ -222,7 +228,7 @@ Referensi cloud service: Amazon Web Service Microsoft Azure Google Cloud Platfor
 Hugging Face adalah komunitas kecerdasan buatan yang membangun masa depan. Mereka menyediakan platform di mana komunitas machine learning berkolaborasi dalam mengembangkan model, dataset, dan aplikasi. Hugging Face juga dikenal sebagai tempat untuk berbagi pengetahuan dan sumber daya di bidang machine learning. jadi kemudian saya mendaftar dan mengkesplor aplikasi ini untuk bisa membangun masa depan dan menambah wawasan tentang machine learning saya,tidak cuma itu dengan menggunakan huggingface kita juga bisa Membuat, menemukan, dan berkolaborasi pada model, dataset, dan aplikasi,Eksplorasi berbagai modalitas seperti teks, gambar, video, audio, dan bahkan 3D,dan Berbagi pekerjaan Anda dengan dunia dan membangun profil machine learning.jadi sangat berguna sekali aplikasi ini dan Hugging Face telah digunakan oleh lebih dari 50.000 organisasi dan bekerja sama dengan perusahaan seperti Microsoft, Amazon Web Services, dan Intel. dan ini adalah akun huggingface saya (https://huggingface.co/F-riz)
 
 ## 34. Mendaftar dan Mencoba Eksplorasi Kaggle [v] ⭐⭐⭐⭐
-
+https://youtu.be/Pv3f5rYZiqM
 
 ## 35. Mencoba Protokol Komunikasi IoT (MQTT) [v] ⭐
 MQTT, singkatan dari Message Queuing Telemetry Transport, adalah protokol pesan berbasis standar yang digunakan untuk komunikasi mesin-ke-mesin12. Protokol ini sangat ringan dan menganut prinsip pengangkutan pesan berbasis publish-subscribe. dan saya juga telah melakukanya bersama anak kelas A secara bersama sama dan sudah mendlowad aplikasi tersebut.https://mqtt.org/
@@ -235,74 +241,81 @@ MQTT, singkatan dari Message Queuing Telemetry Transport, adalah protokol pesan 
 
 
 ## 38. Menjelaskan Jurnal, Conference, Artikel, Grade Jurnal [v] ⭐⭐⭐⭐⭐
-
+https://youtu.be/OPTPcqNvFIA
 
 ## 39. Eksplorasi Artikel Jurnal / Conference di Repository Terekognisi Internasional (IEEE / Arxiv / Science Direct / ACM /DBLP) [v] ⭐⭐⭐⭐
-
+https://youtu.be/xXiOAALxgl4
 
 ## 40. Menonton Video Presentasi Tugas Akhir Informatika ⭐⭐⭐⭐⭐
 
 
 ## 41. Mengeksplorasi Seluruh Profesi Terkait Informatika dan Profesi yang Diminati ⭐⭐⭐⭐
-
+https://youtu.be/52GXPEe5G3k
 
 ## 42. Eksplorasi Tools Untuk Belajar Bahasa Inggris (Duolingo) ⭐⭐⭐
-jadi saya telah mengeksplorasi aplikasi duolingo,duolingo aplikasi pembelajaran bahasa yang populer di seluruh dunia. Aplikasi ini dirancang untuk membantu pengguna belajar bahasa asing secara interaktif dan menyenangkan. Duolingo menyediakan metode pembelajaran yang berfokus pada permainan dan latihan, membuat proses belajar bahasa menjadi lebih menarik dan efektif.jadi banyak orang suka atau seneng menggunakan aplikasi tersebut karena sangat membantu untuk belajar suatu bahasa.(https://www.duolingo.com/placement/id)
+![image](https://github.com/OniGiri787/Tugas_UAS_PI/assets/124949510/9131906a-0b92-49f5-8cd3-ffe079b7c121)
+
+Saya telah mengeksplorasi aplikasi duolingo,duolingo aplikasi pembelajaran bahasa yang populer di seluruh dunia. Aplikasi ini dirancang untuk membantu pengguna belajar bahasa asing secara interaktif dan menyenangkan. Duolingo menyediakan metode pembelajaran yang berfokus pada permainan dan latihan, membuat proses belajar bahasa menjadi lebih menarik dan efektif.jadi banyak orang suka atau seneng menggunakan aplikasi tersebut karena sangat membantu untuk belajar suatu bahasa.(https://www.duolingo.com/placement/id)
 
 ## 43. Eksplorasi Tools Untuk Belajar Berbicara Bahasa Inggris (HelloTalk) ⭐⭐⭐
+![Screenshot 2024-01-01 102804](https://github.com/OniGiri787/Tugas_UAS_PI/assets/124949510/6071313c-2ed6-4dff-a8bb-6fb544969e75)
 
+HelloTalk adalah aplikasi pembelajaran bahasa yang memungkinkan pengguna untuk berkomunikasi dengan penutur asli bahasa yang ingin belajar bahasa lain. Aplikasi ini menawarkan platform berbasis sosial yang memungkinkan pengguna untuk berbicara dan berinteraksi dengan sesama pengguna yang menggunakan bahasa yang ingin dipelajari atau diajarkan.dan aplikasi ini menekankan pembelajaran bahasa melalui interaksi sosial dan praktik langsung dengan penutur asli. Aplikasi ini dapat menjadi alat yang efektif untuk orang yang ingin meningkatkan kemampuan berbahasa mereka dengan berkomunikasi secara langsung dengan penutur asli dan belajar dari satu sama lain.jadi sangat cocok juga untuk belajar menambah wawasan tentang bahasa.
 
 ## 44. Eksplorasi Lowongan Pekerjaan IT ⭐⭐⭐
 
 
 ## 45. Eksplorasi Lowongan Freelancer IT (Upwork / Toptal / Freelancer.com) ⭐⭐⭐
-setelah saya mengksplorasi Freelancer.com banyak sekali lowongan pekerjaan tentang IT tapi kita harus punya bakat atau keterampilan diantara pekerjaan dan tugasnya di freelancer.com
+Saya telah mengksplorasi Freelancer.com
 
-1.Pengembangan Perangkat Lunak:
-
-Pengembangan aplikasi web dan mobile. Pengembangan perangkat lunak khusus atau solusi perangkat lunak tertentu. Pemeliharaan perangkat lunak.
-
-2.Desain Grafis dan UI/UX:
-
-Desain antarmuka pengguna (UI) dan pengalaman pengguna (UX). Desain logo, brosur, dan materi pemasaran. Desain grafis untuk aplikasi dan situs web.
-
-3.Pengembangan Situs Web:
-
+1.Pengembangan Situs Web:
 Pembuatan dan pengembangan situs web responsif. Desain dan pengembangan situs e-commerce. Pemeliharaan dan pembaruan situs web.
 
-4.Pengelolaan Basis Data:
+2. Pengembangan Perangkat Lunak:
+Pengembangan aplikasi web dan mobile. Pengembangan perangkat lunak khusus atau solusi perangkat lunak tertentu. Pemeliharaan perangkat lunak.
 
-Desain dan pengelolaan basis data. Optimasi kinerja dan keamanan basis data. Pemulihan dan pembaruan basis data.
-
-5.Jaringan dan Keamanan:
-
-Konfigurasi dan pemeliharaan jaringan. Audit keamanan dan implementasi langkah-langkah keamanan. Penanganan insiden keamanan.
-
-6.Pengujian Perangkat Lunak:
-
-Pengujian fungsional dan pengujian keamanan perangkat lunak. Penulisan dan eksekusi skenario pengujian. Penyusunan laporan pengujian.
-
-7.Administrasi Sistem:
-
-Administrasi sistem operasi (Windows, Linux, dll.). Pemantauan dan pemeliharaan server. Penanganan masalah dan pemecahan masalah.
-
-8.Pengembangan Game:
-
-Desain dan pengembangan game. Pemrograman game dan pengoptimalan kinerja. Integrasi grafis dan suara dalam game.
-
-9.Penulisan Kode dan Skrip:
-
-Penulisan kode dan skrip khusus. Automatisasi tugas dan alur kerja. Pemrograman skrip untuk keperluan tertentu.
-
-10.Konsultasi IT:
-
+3. Konsultasi IT:
 Memberikan saran tentang solusi teknologi informasi. Analisis kebutuhan bisnis dan memberikan rekomendasi teknologi. Konsultasi keamanan dan strategi TI.
 
-jadi untuk pekerjaanya tergantung dengan kemampuan masing masing.
+4. Pengelolaan Basis Data:
+Desain dan pengelolaan basis data. Optimasi kinerja dan keamanan basis data. Pemulihan dan pembaruan basis data.
+
+5. Desain Grafis dan UI/UX:
+Desain antarmuka pengguna (UI) dan pengalaman pengguna (UX). Desain logo, brosur, dan materi pemasaran. Desain grafis untuk aplikasi dan situs web.
+
+6.Jaringan dan Keamanan:
+Konfigurasi dan pemeliharaan jaringan. Audit keamanan dan implementasi langkah-langkah keamanan. Penanganan insiden keamanan.
+
+7. Penulisan Kode dan Skrip:
+Penulisan kode dan skrip khusus. Automatisasi tugas dan alur kerja. Pemrograman skrip untuk keperluan tertentu.
+
+8. Pengujian Perangkat Lunak:
+Pengujian fungsional dan pengujian keamanan perangkat lunak. Penulisan dan eksekusi skenario pengujian. Penyusunan laporan pengujian.
+
+9. Administrasi Sistem:
+Administrasi sistem operasi (Windows, Linux, dll.). Pemantauan dan pemeliharaan server. Penanganan masalah dan pemecahan masalah.
+
+10. Pengembangan Game:
+Desain dan pengembangan game. Pemrograman game dan pengoptimalan kinerja. Integrasi grafis dan suara dalam game.
 
 
 ## 46. Eksplorasi dan Pilih Topik yang Diminati di Roadmap.sh ⭐⭐⭐
+Roadmap.sh adalah situs web yang menyediakan panduan visual atau roadmap untuk berbagai bidang teknologi dan pengembangan perangkat lunak.
 
+AI and Data Scientist :
+Mulai dari belajar matematika dan statistik, lalu dilanjutkan dengan Econometrics lalu belajar python untuk machine learning, deep learning dan MLOps.
+
+Pengembangan Web Front-end:
+HTML, CSS, dan JavaScript dasar Frameworks front-end seperti React, Angular, atau Vue.js Pengujian dan otomatisasi pengujian Pengelolaan state Navigasi dan routing
+
+Ilmu Data dan Analisis:
+Bahasa pemrograman seperti Python atau R Pengolahan data dengan pandas, NumPy, atau TensorFlow Visualisasi data dengan matplotlib, Seaborn, atau D3.js Pembelajaran mesin dan kecerdasan buatan 
+
+Keamanan Informasi:
+Keamanan aplikasi web Keamanan jaringan Pengujian keamanan (ethical hacking) Kriptografi dan keamanan data 
+
+Pengembangan Game:
+Pengembangan game dengan Unity atau Unreal Engine Grafika dan animasi dalam game Fisika game Kecerdasan buatan dalam game
 
 ## 47. Eksplorasi Top Github Project yang Diminati ⭐⭐
 saya telah mengeksplorasi dan mencari cari beberapa proek di github dan pada hari ini yang tepatnya tanggal 20, bulan desember, tahun 2023. Project github yang seddang ternding dan di minati banyak orang adalah chatbote seperti :
@@ -311,12 +324,27 @@ LobeChat adalah kerangka chatbot sumber terbuka dan berkinerja tinggi yang mendu
 
 
 ## 48. Membangun Profil Linkedin dan Mengikuti Akun-Akun Inspirasif Bertema Informatika ⭐⭐⭐
+![image](https://github.com/OniGiri787/Tugas_UAS_PI/assets/124949510/a5f53ec1-3391-40e4-920c-da03c7d1b685)
+1.Andrew Ng: beliau adalah Ahli dalam bidang machine learning dan pendiri Coursera. 
+(https://www.linkedin.com/in/andrewyng/)
 
+2.Grace Hopper: beliau adalah Pionir komputer dan penemu bahasa pemrograman COBOL. 
+(https://www.linkedin.com/in/grace-hopper-6b873a222/)
+
+3.Satya Nadella: beliau adalah CEO Microsoft, yang memiliki latar belakang teknologi informatika. 
+(https://www.linkedin.com/in/satyanadella/)
+
+4.Linus Torvalds: beliau adalah Pencipta kernel Linux dan salah satu tokoh terkemuka dalam dunia open source. 
+(https://www.linkedin.com/in/linustorvalds/)
+
+5.Hadi Partovi: beliau adalah Pendiri Code.org, yang berfokus pada pendidikan pemrograman bagi anak-anak. 
+(https://www.linkedin.com/in/hadip/)
 
 ## 49. Membangun Profil Github Page ⭐⭐⭐⭐⭐
-
+https://youtu.be/QYtOFT9dL_I
 
 ## 50. Mengikuti Workshop / Event / Course Terkait IT ⭐⭐⭐⭐
 
 
 ## 51. Membaca dan Mengambil Inspirasi Dari Buku Bertema Informatika ⭐⭐⭐⭐⭐
+https://youtu.be/Q6OO8nOS3XE
