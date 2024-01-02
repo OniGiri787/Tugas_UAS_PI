@@ -73,7 +73,7 @@ Bubble sort adalah algoritma pengurutan sederhana yang secara berulang melintasi
 IDE adalah kunci dalam mengembangkan perangkat lunak. Berikut adalah beberapa langkah untuk memulai,dan sesuai dengan bahasa yang saya pelajari saat ini yaitu pelajaran bahasa java saya memilih IDE yaitu:Visual Studio Code (VS Code)dikarenakan Ringan, banyak ekstensi, dan cocok untuk berbagai bahasa pemrograman.dan apa itu Visual Studio Code (VS Code),Visual Studio Code (VS Code)adalah:editor kode sumber yang dikembangkan oleh Microsoft. Perangkat lunak ini gratis dan open-source, dirancang untuk membantu para pengembang dalam menulis dan mengedit kode dengan berbagai bahasa pemrograman.
 
 ## 9. Mendaftar, Mengeksplorasi, dan Mendemonstrasikan Penggunaan HackerRank [v] ⭐⭐⭐⭐⭐
-
+https://youtu.be/fFsflBsDB7g
 
 ## 10. Mendemonstrasikan Pembuatan Aplikasi / Game Pada Platform : Mobile / Desktop / Web Browser ⭐⭐⭐⭐⭐
 https://youtu.be/ejSeNvscqek
@@ -203,14 +203,24 @@ Saat ini banyak perusahaan berbasis digital seperti Gojek, Tokopedia, Instagram,
 Referensi cloud service: Amazon Web Service Microsoft Azure Google Cloud Platform
 
 ## 24. Mencoba Penggunaan Content Management System (Wordpress) [v] ⭐⭐⭐
+Saya sudah mencobanya, WordPress bisa membantu Anda membuat dan mengelola website tanpa coding. Anda bisa menata tampilan, menambahkan fitur, dan membuat konten di website dengan mudah. Jadi, cocok untuk digunakan pemula sekalipun
+
 
 ## 25. Mendemonstrasikan Akses Konten Multimedia (Image, Audio, Video) ⭐⭐⭐
+Saya memilih Canva, karena dengan Canva dapat dengan mudah membuat materi dalam format visual (gambar) yang menarik dengan template dan materi-materi visual lainnya yang siap pakai dan dapat dimodifikasi.
 
 ## 26. Mencoba Edit Konten Multimedia (Image, Audio, Video) [v] ⭐⭐
+Saya sudah membuat dan mengedit thumbnail untuk video
+![image](https://github.com/OniGiri787/Tugas_UAS_PI/assets/124949510/2d85d722-3dc1-4c9d-939f-ffe2db6bc7e6)
+
 
 ## 27. Mencoba Pembuatan Game dan Simulasi Menggunakan Logo [v] ⭐⭐
+![image](https://github.com/OniGiri787/Tugas_UAS_PI/assets/124949510/e5e6cc5b-b3c1-4e04-a23a-5f47b04acfaf)
+
 
 ## 28. Mencoba Pemrosesan Konten Multimedia (Image, Audio) Menggunakan Google Colab [v] ⭐⭐⭐
+![image](https://github.com/OniGiri787/Tugas_UAS_PI/assets/124949510/cdfadf8c-d7e1-4362-901e-c2f2ba02edf1)
+
 
 ## 29. Mencoba Web Tool AI Discriminative (Image Classification) [v] ⭐⭐⭐⭐
 https://youtu.be/Jec_ycsUlaM
@@ -218,10 +228,25 @@ https://youtu.be/Jec_ycsUlaM
 ## 30. Mencoba Web Tool AI Generative (Text to Image, Text to Text) [v] ⭐⭐⭐⭐
 https://youtu.be/XFm2mpIui_U
 
+
 ## 31. Mencoba Model Machine Learning Menggunakan Google Colab, TTS, Speechrecognition, dan HuggingFace [v] ⭐⭐⭐
 
+![image](https://github.com/OniGiri787/Tugas_UAS_PI/assets/124949510/e54a82c2-d6d8-43cf-97ae-0b1bbdbfca93)
 
-## 32. Mencoba Data Visualization Dengan Tools [v] ⭐⭐
+
+## 32. Mencoba Data Visualization Dengan Tools dan Code [v] ⭐⭐
+Data Visualization atau visualisasi data adalah proses mengubah data mentah menjadi informasi yang dapat dipahami dengan lebih mudah.
+contoh tools yang populer digunakan:
+
+1.D3.js : Tool ini memungkinkan pengguna untuk membuat grafis yang rumit.
+
+2.Plotly : adalah perangkat open source, interaktif, dan berbasis website.
+
+Tetapi jika dicoding, contoh code dan hasil :
+
+![image](https://github.com/OniGiri787/Tugas_UAS_PI/assets/124949510/48bc4a90-51ca-4852-b545-c886325d92cc)
+
+![image](https://github.com/OniGiri787/Tugas_UAS_PI/assets/124949510/6bdc3047-572d-4534-a192-ed601e6d535e)
 
 
 ## 33. Mendaftar dan Mencoba Eksplorasi HuggingFace [v] ⭐⭐⭐
@@ -235,18 +260,27 @@ MQTT, singkatan dari Message Queuing Telemetry Transport, adalah protokol pesan 
 
 
 ## 36. Mencoba Memproses File CSV Menggunakan Google Colab [v] ⭐⭐
+CSV adalah singkatan dari Comma Separated Values. File CSV adalah file teks biasa yang berisi daftar data1. Semua file CSV dapat berisi angka dan huruf saja, dan menyusun data yang terkandung di dalamnya dalam bentuk tabel.dan saya telah memproses file CSV menggunakan google colab dan ini hasilnya.
+![image](https://github.com/OniGiri787/Tugas_UAS_PI/assets/124949510/a4fc61e4-2ed0-494a-a55c-6fab8428d466)
 
 
 ## 37. Mencoba Memproses File Big Data ORC Menggunakan Google Colab [v] ⭐⭐
+File ORC (Optimized Row Columnar) adalah format penyimpanan data yang dirancang untuk Hadoop dan sistem pemrosesan big data lainnya1.
+![image](https://github.com/OniGiri787/Tugas_UAS_PI/assets/124949510/d6109dd6-d76f-4db9-b74f-a4994028e774)
+![image](https://github.com/OniGiri787/Tugas_UAS_PI/assets/124949510/8bde112b-8249-4b06-9d86-1a6b317a0017)
 
 
 ## 38. Menjelaskan Jurnal, Conference, Artikel, Grade Jurnal [v] ⭐⭐⭐⭐⭐
 https://youtu.be/OPTPcqNvFIA
 
+
 ## 39. Eksplorasi Artikel Jurnal / Conference di Repository Terekognisi Internasional (IEEE / Arxiv / Science Direct / ACM /DBLP) [v] ⭐⭐⭐⭐
 https://youtu.be/xXiOAALxgl4
 
+
 ## 40. Menonton Video Presentasi Tugas Akhir Informatika ⭐⭐⭐⭐⭐
+https://youtu.be/7rSyCTLLPT8?si=ewZWviTvA-IjlBdQ
+![image](https://github.com/OniGiri787/Tugas_UAS_PI/assets/124949510/39b942e5-5fdb-4bf6-bbb3-fb86eb76a16b)
 
 
 ## 41. Mengeksplorasi Seluruh Profesi Terkait Informatika dan Profesi yang Diminati ⭐⭐⭐⭐
@@ -263,7 +297,7 @@ Saya telah mengeksplorasi aplikasi duolingo,duolingo aplikasi pembelajaran bahas
 HelloTalk adalah aplikasi pembelajaran bahasa yang memungkinkan pengguna untuk berkomunikasi dengan penutur asli bahasa yang ingin belajar bahasa lain. Aplikasi ini menawarkan platform berbasis sosial yang memungkinkan pengguna untuk berbicara dan berinteraksi dengan sesama pengguna yang menggunakan bahasa yang ingin dipelajari atau diajarkan.dan aplikasi ini menekankan pembelajaran bahasa melalui interaksi sosial dan praktik langsung dengan penutur asli. Aplikasi ini dapat menjadi alat yang efektif untuk orang yang ingin meningkatkan kemampuan berbahasa mereka dengan berkomunikasi secara langsung dengan penutur asli dan belajar dari satu sama lain.jadi sangat cocok juga untuk belajar menambah wawasan tentang bahasa.
 
 ## 44. Eksplorasi Lowongan Pekerjaan IT ⭐⭐⭐
-
+banyak sekali lowongan kerja tentang IT di website web:https://www.jobstreet.co.id/id/it-jobs , akan tetapi tetap sesuai dengan kemampuan kita tersendiri diri,dan gaji yang di tawwarkan oleh perusaahan bervariasi tergantung pekerjaan dan kemampuan, contohnya: IT System Engineer - Data Center di OTO Group, Jakarta Selatan, Jakarta Raya. Gaji berkisar antara Rp 7.500.000 hingga Rp 8.000.000 per bulan. Computer User Support di PT Djarum, Kudus, Jawa Tengah. Gaji berkisar antara Rp 8.000.000 hingga Rp 10.000.000 per bulan. Anda akan bertanggung jawab dalam meja bantuan dan dukungan IT1.
 
 ## 45. Eksplorasi Lowongan Freelancer IT (Upwork / Toptal / Freelancer.com) ⭐⭐⭐
 Saya telah mengksplorasi Freelancer.com
@@ -344,6 +378,9 @@ LobeChat adalah kerangka chatbot sumber terbuka dan berkinerja tinggi yang mendu
 https://youtu.be/QYtOFT9dL_I
 
 ## 50. Mengikuti Workshop / Event / Course Terkait IT ⭐⭐⭐⭐
+https://youtu.be/krbw3gEuArs
+
+![sertiPKL](https://github.com/OniGiri787/Tugas_UAS_PI/assets/124949510/5d851b93-dffc-4f1e-bc82-79196bd5eb43)
 
 
 ## 51. Membaca dan Mengambil Inspirasi Dari Buku Bertema Informatika ⭐⭐⭐⭐⭐
